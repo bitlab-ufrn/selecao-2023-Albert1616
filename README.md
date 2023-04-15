@@ -34,3 +34,5 @@ Você está livre para utilizar qualquer linguagem ou ferramenta.
 1. Adicione a esse README instruções de acesso ao seu sistema
 
 ## Acesso
+o link para o vercel é este: bitlad-ufrn-vercel-rovi-n75c0uztu-albert1616.vercel.app, porém ocorreu algum erro e esta apresentando 404 NOT FOUND
+creio que seja algum problema do próprio cloud.
